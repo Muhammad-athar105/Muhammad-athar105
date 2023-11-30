@@ -1,4 +1,4 @@
-### Hi there, Muhammad Athar 👋
+### Hi there, I'm Muhammad Athar 👋
 <p>I'm a self-taught passionate MERN developer from Pakistan.</p>
 <h2>About me</h2>
 <ul>
