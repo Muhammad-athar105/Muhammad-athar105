@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Athar 👋
 <p>I'm a self-taught passionate MERN developer from Pakistan.</p>
-<h3>About me</h3>
+<h2>About me</h2>
 <ul>
   I am passionate about creating dynamic and responsive web applications that provide value to users. My goal is to continue to develop my skills as a developer and contribute to projects that make a positive impact. I am eager to learn and collaborate with other developers to create innovative solutions to complex problems.
 </ul>
