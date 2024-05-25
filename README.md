@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typesrcipt,beekeeper,nestjs,prisma,expressjs,nodejs,react,html,bootstrap,mongodb,php,laravel,mysql,sequelize,postgresql,git,docker,vercel," />
+    <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,react,html,bootstrap,mongodb,php,laravel,mysql,sequelize,postgresql,git,docker,vercel," />
   </a>
 </p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-athar105&show_icons=true" />
