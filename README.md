@@ -1,5 +1,5 @@
 ### Hi there, I'm Muhammad Athar 👋
-<p>I am a Full Stack Developer.</p>
+<p>I am a Full Stack Developer with one year of experience in software development. I am also an enthusiast in Machine Learning (ML)..</p>
 <h2>About Me</h2>
 <ul>
   I am passionate about building dynamic and responsive web applications that deliver value to users. My goal is to continuously enhance my skills as a developer while contributing to impactful projects. I am eager to learn, collaborate, and develop innovative solutions to complex challenges.
