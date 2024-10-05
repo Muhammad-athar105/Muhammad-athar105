@@ -1,8 +1,8 @@
 ### Hi there, I'm Muhammad Athar 👋
-<p>I'm a self-taught passionate MERN developer.</p>
-<h2>About me</h2>
+<p>I am a Full Stack Developer.</p>
+<h2>About Me</h2>
 <ul>
-  I am passionate about creating dynamic and responsive web applications that provide value to users. My goal is to continue to develop my skills as a developer and contribute to projects that make a positive impact. I am eager to learn and collaborate with other developers to create innovative solutions to complex problems.
+  I am passionate about building dynamic and responsive web applications that deliver value to users. My goal is to continuously enhance my skills as a developer while contributing to impactful projects. I am eager to learn, collaborate, and develop innovative solutions to complex challenges.
 </ul>
 
 <p align="left">
