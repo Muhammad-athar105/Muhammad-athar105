@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Athar 👋
+### Hi there,👋
 <p>I am a Full Stack Developer with one year of experience in software development. I am also an enthusiast in Machine Learning (ML)..</p>
 <h2>About Me</h2>
 <ul>
