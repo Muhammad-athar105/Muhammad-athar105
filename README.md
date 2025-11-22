@@ -1,5 +1,5 @@
 ### Hi there,👋
-<p>I am a Full Stack Developer with 1+ years of experience in software development. I am also an enthusiast of Machine Learning (ML)..</p>
+<p>I am a Full Stack Developer with two years of experience in software development. I am also an enthusiast of Machine Learning (ML)..</p>
 <h2>About Me</h2>
 <ul>
   I am passionate about building dynamic and responsive web applications that deliver value to users. My goal is to continuously enhance my skills as a developer while contributing to impactful projects. I am eager to learn, collaborate, and develop innovative solutions to complex challenges.
