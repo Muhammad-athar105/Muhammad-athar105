@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=js,typescript,python,nestjs,expressjs,nodejs,react,next,tailwind,vite,anaconda,mongodb,php,laravel,mysql,sequelize,postgresql,prisma,github,git,bitbucket,docker,aws,vercel,postman" />
   </a>
 </p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-athar105&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-athar105&layout=compact" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-athar105&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-athar105&layout=compact" /> -->
 
 
